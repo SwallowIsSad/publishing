@@ -2,8 +2,7 @@
 
 //css list
 $pcCssList = [
-    "default",
-    "sub",
-    "input",
+    "pc",
 ];
-$mobileCssList = [];
+$mobileCssList = [
+    "mobile",];

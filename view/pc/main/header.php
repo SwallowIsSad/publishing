@@ -31,7 +31,9 @@
     <link rel="shortcut icon" href="" />
     <link rel="stylesheet" href="/publishing/public/assets/css/default.css?<?php echo time()?>">
     <?php foreach($pcCssList as $key => $value):?>
-        <link rel="stylesheet" href="<?php echo CSSPATH . $value?>.css?<?php echo time()?>">
+    <link rel="stylesheet" href="<?php echo CSSPATH . $value?>.css?<?php echo time()?>">
     <?php endforeach;?>
+
+    <script type="text/javascript" src="<?php echo A_URL ?>/js/jquery.min.js"></script>
 </head>
 <body>
