@@ -90,8 +90,8 @@
 
 <section class="area-list m60t">
         <div class="list-wrap">
-            <!-- <div class="box" style="font-size:12px;"></div> -->
         <ul class="counselor-list" id="item-list">
+            
         </ul>
         <div class="loading-image" id="loading_sign" style="display: none;"><img src="<?php echo IMAGEPATH?>icon/loading-animation.gif" alt=""></div>
         <a href="javascript:;" style="" class="btn-more m20t" id="next-block"><span>상담사 리스트 더보기</span></a>

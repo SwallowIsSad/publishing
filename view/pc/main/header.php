@@ -35,5 +35,7 @@
     <?php endforeach;?>
 
     <script type="text/javascript" src="<?php echo A_URL ?>/js/jquery.min.js"></script>
+    <?php var_dump(1);?>
+    <?php var_dump(IS_MOBILE);?>
 </head>
 <body>
